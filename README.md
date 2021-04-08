@@ -8,6 +8,7 @@
 
 ### Contact with me 😉
 <br />
+
 [<img align="left" alt="MichealCode | Facebook" target="_blank" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MichaelCode | LinkedIn" target="_blank" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
