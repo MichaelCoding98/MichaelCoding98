@@ -3,19 +3,20 @@
 ### So far, for the last 2 years I have worked as a soldier  a mechanic of leopards 2a4 / 2a5, in the Warsaw 1st armored brigade. 
 ### I have always been interested in computers 👨‍💻, assembling computers or computer games since I was a child, I have been sitting in front of a computer since I was a child, although when I was a kid it was mainly playing 😁, and the only thing I could do was replace a few parts in the computer or make a format .. 🤓 
 ### I am currently looking for my first job as a Junior front-end developer 🙃 
-
-
+<br />
+<br />
 ### Connect with me:
 
 [<img align="left" alt="MichealCode | Facebook" target="_blank" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MichaelCode | LinkedIn" target="_blank" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+<br />
+<br />
 <br />
 
-
 ### Tools and programming languages that I use and learn 📒 :
-
+<br />
+<br />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
