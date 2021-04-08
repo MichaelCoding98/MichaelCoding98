@@ -13,6 +13,7 @@
 [<img align="left" alt="MichaelCode | LinkedIn" target="_blank" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 ### Tools and programming languages that I use and learn 📒 :
 
