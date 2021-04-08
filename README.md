@@ -1,19 +1,13 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+### My name is Michael Rabti, I am 22 years old, I come from Sierpc and Boguszewc ☺️, although I have lived in Warsaw for 4 years. 
+### I have been actively learning Front-End for several months 🧐, I am also interested in backend, I generally like programming and I hope that in the future I will work on large projects 👨‍💻 and I will be able to make fascinating applications in the future, maybe games, computer programs or the entire operating system just for fun 😅 😂 
+### So far, for the last 2 years I have worked as a soldier  a mechanic of leopards 2a4 / 2a5, in the Warsaw 1st armored brigade. 
+### I have always been interested in computers 👨‍💻, assembling computers or computer games since I was a child, I have been sitting in front of a computer since I was a child, although when I was a kid it was mainly playing 😁, and the only thing I could do was replace a few parts in the computer or make a format .. 🤓 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -44,66 +38,23 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/vsc.jpg" />](https://code.visualstudio.com/)
+[<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/sass.png" />](https://sass-lang.com/)
+[<img align="left" alt="Js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/js.png" />]()
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/angular.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/express.png" />](https://expressjs.com/)
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/mongodb.png" />](https://www.mongodb.com/3)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/github.png" />](https://github.com/)
+
 <br />
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
